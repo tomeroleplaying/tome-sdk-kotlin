@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin_main.iml" group="tome-sdk-kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tome-sdk-kotlin_test.iml" group="tome-sdk-kotlin" />
+    </modules>
+  </component>
+</project>
